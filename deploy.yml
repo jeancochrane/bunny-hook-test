@@ -1,0 +1,10 @@
+home: './bunny-test'
+
+prebuild:
+  - scripts/prebuild.sh
+
+build:
+  - scripts/build.sh
+
+deploy:
+  - scripts/deploy.sh
