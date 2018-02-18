@@ -1,4 +1,4 @@
-home: './bunny-test'
+home: './bunny-test/'
 
 prebuild:
   - scripts/prebuild.sh
